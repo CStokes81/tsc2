@@ -1,4 +1,5 @@
 .App {
+  font-family: monospace;
   text-align: center;
 }
 
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
